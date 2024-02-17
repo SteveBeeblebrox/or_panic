@@ -4,6 +4,6 @@ version = "1.0.0"
 edition = "2021"
 authors = ["Trin Wasinger"]
 license = "MIT"
-description = "Extract ok values from Results or panic with the contained error."
+description = "Extract ok values from Rust results or panic with the contained error."
 
 [dependencies]
